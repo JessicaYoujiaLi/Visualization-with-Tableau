@@ -1,5 +1,7 @@
 # Visualization-with-Tableau
-Tableau work samples.
+Tableau work sample, see at:  
+
+https://public.tableau.com/app/profile/youjia.li1420/viz/NewsPublisherRevenueViewabilitySummary/SummaryDashboard
 
 ### Tableau Dashboard - News Publisher Revenue&Viewability Summary
 
